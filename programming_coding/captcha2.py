@@ -37,4 +37,5 @@ if __name__ == '__main__':
 
         sleep(1)
 
-    sleep(20)
+    input('Press enter to close...')
+    driver.quit()
